@@ -36,8 +36,4 @@ npm run dev
 Open http://localhost:3000 to view it in your browser.
 
 
-    
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
